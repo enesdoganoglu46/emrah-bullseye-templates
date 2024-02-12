@@ -13,7 +13,7 @@ cd $MACHINES/$MACH
 ROOTFS="/var/lib/lxc/$MACH/rootfs"
 PROJECT_REPO="https://github.com/jitsi/jitsi-component-sidecar.git"
 DEBFULLNAME="EB Jitsi Team"
-DEBEMAIL="emrah.com@gmail.com"
+DEBEMAIL="enesdoganoglu1@gmail.com"
 
 # ------------------------------------------------------------------------------
 # INIT
